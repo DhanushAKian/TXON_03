@@ -3,7 +3,9 @@
 body, html {
     margin: 0;
     padding: 0;
-    height: 100%
+    height: 100%;
+	background-image: url(./subtle-prism.svg);
+	
 }
 
 div{
@@ -29,6 +31,7 @@ ul{
 	font-size: 1.2em !important;
 }
 .credits{
-	text-align: center;
 	margin-top: 200px;
+	text-align: center;
+	color: gray;
 }
